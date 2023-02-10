@@ -15,7 +15,7 @@ monthly_challenges = {
     "september": "Follow a productivity system.",
     "october": "Follow a morning routine.",
     "november": "Follow a bedtime routine.",
-    "december": "Check email once or twice a day."
+    "december": None
 }
 
 # Create your views here.
